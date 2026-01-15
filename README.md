@@ -55,6 +55,13 @@ This repository implements a complete detection transfer pipeline that:
 
 ---
 
+## Repository Structure
+
+- `notebooks/` — main research notebooks  
+- `README.md` — project overview
+
+---
+
 ## Use Cases
 
 - Multi-camera object tracking  
